@@ -2,39 +2,27 @@
 
 # Ruby School Library / OOP
 
-> This project is in progress.
+> In this project we will go through the basics of OOP with Class creation, public and private methods.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- Robocop Linters test
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Ruby installed
+- Code editor
+- Terminal
+
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Git clone https://github.com/RafaelEchart/Ruby_OOP-SchoolLibrary.git
 
 
 ## Authors
@@ -49,7 +37,6 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -57,9 +44,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Rafael Echart
+- Microverse documentation
 
 ## 📝 License
 
