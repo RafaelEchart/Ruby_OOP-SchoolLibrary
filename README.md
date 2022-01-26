@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Movie Catalog - Java (JSP) + PostgreSQL
+# Ruby School Library / OOP
 
 > This project is in progress.
 
