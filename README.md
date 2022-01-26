@@ -2,7 +2,7 @@
 
 # Ruby School Library / OOP
 
-> In this proyect we will go through the basics of OOP with Class creation, public and private methods.
+> In this project we will go through the basics of OOP with Class creation, public and private methods.
 
 ## Built With
 
